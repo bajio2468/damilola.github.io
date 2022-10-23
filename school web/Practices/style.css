@@ -1,0 +1,16 @@
+img {
+    width: 100px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 10px;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.coffee img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
